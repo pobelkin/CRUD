@@ -5,7 +5,7 @@
    - Определить тему приложения (например, "Управление задачами").  
    - Определить набор сущностей и их атрибутов (например, сущность "Task" с атрибутами: `id`, `title`, `description`, `status`, `createdAt`).  
    - Выберать стек технологий:
-     - Backend: Java (Spring Boot), SQL (например, MySQL, PostgreSQL).
+     - Backend: Java (Spring Boot), PostgreSQL.
      - Frontend (по необходимости): HTML/CSS, JavaScript, или SPA-фреймворк (React, Angular).
    - Настроить рабочую среду:
      - IntelliJ IDEA.
